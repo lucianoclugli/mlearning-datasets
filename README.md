@@ -9,7 +9,7 @@ As we need to evaluate the candidate's technical (practical) part, we came out a
  
 The task is to build/program a simple binary classifier on oranges and tomatoes from the datasets containing these two classes of images.
 Please, refer to the link below for datasets retrieval.
-# (github link)
+#### (github link)
  
 Feel free to program with any machine learning method (supervised, unsupervised, DL) using any languages.
  
