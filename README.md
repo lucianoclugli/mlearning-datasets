@@ -19,6 +19,4 @@ Please, return us with the results in 7 days. It would be also nice give us a sh
  
 *Any doubts regarding this task, please don't hesitate to contact.
  
- All the best,
 Regards...
-”
