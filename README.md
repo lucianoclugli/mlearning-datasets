@@ -15,7 +15,7 @@ Note: '001.zip' file contains the apple images and '002.zip' file contains the t
 
 Feel free to program with any machine learning method (supervised, unsupervised, DL) using any programming languages, packages, libraries, ...
  
-Please, return us with the results in 7 days. It would be also nice give us a short description of results and algorithm in a report file.
+Please, return us with the results on next Monday (June 03). It would be also nice give us a short description of results and algorithm in a report file.
  
 *Any doubts regarding this task, please don't hesitate to contact.
  
